@@ -3,7 +3,7 @@
     "short_name": "Calculadora Productos",
     "description": "Bienvenid@s a la calculadora de costos de Productos espero les sirva",
     "background_color": "#2B2B2B",
-    "theme_color": "#F0DB4F",
+    "theme_color": "#232A2F",
     "orientation": "portrait",
     "display": "standalone",
     "start_url": "./?utm_source=web_app_manifest",
